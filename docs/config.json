@@ -1,8 +1,8 @@
 {
-  "baseUrl": "/ng2-admin/",
+  "baseUrl": "/j2sp-ng/",
   "locals": {
     "url": "http://localhost:8080",
-    "name": "ng2-admin blog",
+    "name": "j2sp-ng blog",
     "owner": "Akveo",
     "description": ""
   },
