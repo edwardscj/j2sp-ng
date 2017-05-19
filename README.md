@@ -32,7 +32,7 @@ This project runs its tests on multiple desktop and mobile browsers using [Brows
 - Follow us on [Twitter](https://twitter.com/akveo_inc) :feet:
 - Like our page on [Facebook](https://www.facebook.com/akveo/) :thumbsup:
 
-## Can I hire you guys?
+## Can I hire you guys? 
 Yes!  Visit [our homepage](http://akveo.com/) or simply leave us a message to [contact@akveo.com](mailto:contact@akveo.com). We will be happy to work with you!
 
 ## Features
